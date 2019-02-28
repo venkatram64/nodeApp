@@ -41,3 +41,6 @@ npm test -- --coverage
 
 8. to Start the app:
 nodemon
+
+9 to call individual functions
+node aw_func.js
